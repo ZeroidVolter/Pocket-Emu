@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Launcher",
+  "description": "Innovative custom game launcher for Minecraft Bedrock Edition (MCPE). Manage bedrock client versions, configure advanced graphic render distances and screen resolutions, map controller macros, edit touch overlay colors, install addons, and manage offline multiplayer profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
